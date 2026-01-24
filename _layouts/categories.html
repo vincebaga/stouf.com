@@ -16,7 +16,9 @@ layout: default
 
     </article>
 
-    {% include post-categories.html %}
+    {% if p.excerpt %}
+		<p>{{ p.excerpt | truncatewords: 20 }}</p>
+	{% endif %}
 
   </div>
 

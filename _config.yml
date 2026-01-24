@@ -37,17 +37,13 @@ plugins:
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
-jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
-twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
 author: DavidDarnes # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Vincent Bagaïni # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://github.com/daviddarnes
+    - https://www.youtube.com/@VinceTrueMental
+    - https://soundcloud.com/vince_true_mental
+    - https://github.com/vincebaga
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -58,7 +54,7 @@ sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: Canada/Atlantic # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
@@ -94,12 +90,12 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Stouf.com" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+logo: "/assets/logos/logostouf2.png" # Site logo, also used in jekyll-seo-tag
+description: "Mon site perso" # Site description and default description, also used in jekyll-seo-tag
 url: "" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
-email: "me@daviddarnes.com"
+repo: "https://github.com/vincebaga/stouf.com"
+email: "vincent.bagaini@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
@@ -123,27 +119,20 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
-- title: Search
-  url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
+- title: Mes aventures
+  url: /mes_aventures/
+- title: Mes projets
+  url: /mes_projets/
+- title: Galerie
+  url: /galerie/
 
 navigation_footer:
-- title: Created by David Darnes
-  url: https://darn.es
+- title: Par Vincent Bagaïni sur la base Alembic de David Darnes
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
-  RSS: /feed.xml
+  Twitter: https://www.youtube.com/@VinceTrueMental
+  LinkedIn: https://soundcloud.com/vince_true_mental
+
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
@@ -157,5 +146,10 @@ sharing_links: # Appear at the bottom of single blog posts, add as desired. The 
 fonts:
   preconnect_urls:
     - https://fonts.gstatic.com
+    - https://fonts.googleapis.com
   font_urls:
     - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
+    - https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap
+    - https://fonts.googleapis.com/css2?family=Kavivanar&display=swap
+    - https://fonts.googleapis.com/css2?family=Kings&display=swap
+    - https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&display=swap

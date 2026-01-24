@@ -9,14 +9,20 @@ body {
 }
 
 .container {
-  width: 90%;
-  max-width: 1200px;
+  //width: 90%;
+  width: 100%;
+  //max-width: 1200px;
+  max-width: 1300px;
   margin: 0 auto;
 }
 
 
 // Header, feature and footer
-.header,
+
+.header {
+  background: $headingColour;
+}
+
 .footer {
   .nav {
     text-align: right;
@@ -147,7 +153,8 @@ body {
 
 .aside {
   @include breakpoint(break-1) {
-    max-width: 34%;
+    //max-width: 34%;
+	max-width: 24%;
     margin-left: 4%;
     @include flex(1, 0, auto);
     opacity: 0.5;

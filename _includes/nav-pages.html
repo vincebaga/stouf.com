@@ -1,0 +1,9 @@
+<ul class="nav-pages">
+  {% for page in site.pages %}
+    <li class="nav-pages__item">
+      <a href="{{ page.url | relative_url }}">
+        {{ page.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>

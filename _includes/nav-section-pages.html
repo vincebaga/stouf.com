@@ -1,0 +1,19 @@
+{% assign section_pages = site.pages
+  | where: "section", page.section
+  | where_exp: "p", "p.title"
+<!--  | where_exp: "p", "p.url != page.url"-->
+  | sort: "order" %}
+
+{% if p.excerpt %}
+  <p>{{ p.excerpt | truncatewords: 20 }}</p>
+{% endif %}
+
+<ul class="nav-pages">
+  {% for p in section_pages %}
+    <li class="nav-pages__item">
+      <a href="{{ p.url | relative_url }}">
+        {{ p.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>

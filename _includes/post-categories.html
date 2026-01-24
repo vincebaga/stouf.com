@@ -1,4 +1,4 @@
-{% for category in site.categories %}
+<!--{% for category in site.categories %}
   {% assign category_name = category | first %}
   <section class="section  typeset">
     <h2 id="{{ category_name | slugify }}">{{ category_name }}</h2>
@@ -23,3 +23,63 @@
     <p>There are no categorised posts</p>
   </section>
 {% endif %}
+
+<section class="section  typeset">
+  <h2>Articles</h2>
+
+  <ul class="list  list--posts">
+    {% for page in site.posts %}
+      <li class="item  item--post">
+        <article class="article  article--post  typeset">
+          <h3>
+            <a href="{{ site.baseurl }}{{ page.url }}">
+              {{ page.title }}
+            </a>
+          </h3>
+
+          {% include post-meta.html %}
+
+          {{ page.excerpt | truncatewords: 60 | markdownify }}
+        </article>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+-->
+<section class="section  typeset">
+  <h2>Articles</h2>
+
+  <ul class="list  list--posts">
+    {% for post in site.posts %}
+      <li class="item  item--post">
+        <article class="article  article--post  typeset">
+          <h3>
+            <a href="{{ post.url | relative_url }}">
+              {{ post.title }}
+            </a>
+          </h3>
+
+          {% include post-meta.html post=post %}
+
+          {{ post.excerpt | truncatewords: 60 | markdownify }}
+        </article>
+      </li>
+    {% endfor %}
+  </ul>
+</section>-->
+<!--
+<section class="section  typeset">
+  <h2>Index des articles</h2>
+  <ul class="list  list--posts">
+    {% assign my_pages = site.pages | where_exp: "p", "p.path contains 'my-blog_pages/'" %}
+    {% for page in my_pages %}
+      <li class="item  item--post">
+        <a href="{{ page.url | relative_url }}">
+          {{ page.title }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+
+{% assign blog_pages = site.pages | sort: "title" | where_exp: "p", "p.path contains 'my-blog_pages/'" %}-->

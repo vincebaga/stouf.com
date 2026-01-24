@@ -1,0 +1,9 @@
+<ul class="nav-posts">
+  {% for post in site.posts %}
+    <li class="nav-posts__item">
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </li>
+  {% endfor %}
+</ul>
