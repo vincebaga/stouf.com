@@ -68,3 +68,5 @@ Je suis enfin rentré chez moi je peux donc faire la conclusion de ce périple. 
 4. Je pensais également être plus heureux de retrouver ma bulle de confort. En réalité, je n'ai pas vraiment envie de retourner à ma vie d'avant. Alors ce sont de grands mots et ma vision va sûrement changer quand le printemps va arriver (une question de quelques jours j'espère). Pour l'instant je n'ai pas de sentiment d'accomplissement ou de repos bien mérité. J'aspire juste à ne pas devenir ranger dans un refuge paumé pour retrouver un sens à ma vie. Je relirai ces mots demain pour voir si les choses ont changé.
 Le coup de blues d'hier soir est passé. Aujourd'hui j'ai dû réparer mon pneu de vélo et j'ai fait de nouveau une inflammation aux lombaires à gauche. Fais chier! Les petits problèmes du quotidien reprennent habilement leur place. J'ai désormais moins d’espace pour les méditations métaphysiques et ce n’est pas plus mal pour le moment...
 {% include figure.html image="/assets/pics/WM/WM9.jpg" width="3024" height="4032" %}
+
+{% include map.html id="1OAm4T65zp_Mo443_V090G-wM-Irfyl0&ehbc=2E312F" title="Charlevoix map" %}

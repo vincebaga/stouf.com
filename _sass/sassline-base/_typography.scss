@@ -375,9 +375,9 @@ a {
   
   .nav--header a,
 .nav--header .button--nav {
-  @include fontsize(beta, all);
+  @include fontsize(alpha, all);
   @include baseline(
-    $fontsize: delta,
+    $fontsize: alpha,
     $font: $bodytype,
     $lineheight: 2,
     $below: 2,

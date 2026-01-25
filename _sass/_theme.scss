@@ -23,6 +23,18 @@ body {
   background: $headingColour;
 }
 
+//Alignement sur la même ligne du contenu du header
+.header .container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  margin-bottom: 1rem;
+  margin-top: 1.6rem;
+}
+
+
 .footer {
   .nav {
     text-align: right;
@@ -47,15 +59,44 @@ body {
   align-items: flex-end;
   justify-content: flex-end;
   overflow: hidden;
+
 }
 
+/* Header nav links hover style */
+.header .nav a{
+  color: #7faf3e;         // couleur normale des liens
+  text-decoration: none;   // optionnel, selon ton style
+  transition: color 0.8s; // effet smooth au hover
+
+  &:hover{
+    //color: #d9da89;// couleur au survol / focus
+	color: #FCFCDE
+  }
+
+  //&:visited {
+  //  color: #7faf3e;       // liens visités restent comme les liens normaux
+  //}
+
+  &:active {
+    color: #d9da89;       // couleur lors du clic
+  }
+}
+
+.header .nav .item--current a {
+    color: #dbdcd7;       // gris pour la page active
+    pointer-events: none; // optionnel : rend le lien non-cliquable si tu veux
+  }
+
+ 
 .feature {
   padding-bottom: .4rem;
-  margin-bottom: 1.6rem;
+  //margin-bottom: 1.6rem;
+  margin-bottom: 0rem;
   text-align: center;
   background: $featureBackgroundColour;
   background-size: cover;
   background-position: center;
+
   .container {
     min-height: 35vh;
     max-width: 60%;
@@ -64,6 +105,12 @@ body {
   }
 }
 
+remove line-height
+.feature {
+  overflow: auto;
+}
+
+
 .logo {
   display: inline-block;
   line-height: 0;
@@ -71,7 +118,8 @@ body {
   @include flexbox;
   @include align-items(center);
   img {
-    max-height: 5rem;
+    //max-height: 5rem;
+	max-height: 10rem;
   }
 }
 
@@ -129,6 +177,7 @@ body {
   @include flex(1, 0, auto);
   @include justify-content(flex-start);
   margin-bottom: 1.6rem;
+  margin-top: 2rem;
   @include breakpoint(break-1) {
     @include justify-content(center);
     @include flex-direction(row);
