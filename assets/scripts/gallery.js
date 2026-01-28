@@ -1,6 +1,13 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
-<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
-
-<script>
-  GLightbox({ selector: '.gallery a' });
-</script>
+document.addEventListener('DOMContentLoaded', () => {
+  GLightbox({
+    selector: '.glightbox',
+    touchNavigation: true,
+	touchFollowAxis: true,
+	keyboardNavigation: true,
+    loop: true,
+    zoomable: true,
+    openEffect: 'zoom',
+    closeEffect: 'fade',
+	closeOnOutsideClick: true
+  });
+});
