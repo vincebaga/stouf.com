@@ -8,13 +8,35 @@ body {
   overflow-x: hidden;
 }
 
+//.container {
+//  //width: 90%;
+//  width: 100%;
+//  //max-width: 1200px;
+//  max-width: 1300px;
+//  margin: 0 auto;
+//}
+
+//test
 .container {
-  //width: 90%;
   width: 100%;
-  //max-width: 1200px;
-  max-width: 1300px;
+  max-width: 1400px;
   margin: 0 auto;
+  padding: 0 2rem; // marge mobile
 }
+
+@include breakpoint(medium) {
+  .container {
+    padding: 0 3rem;
+  }
+}
+
+@include breakpoint(large) {
+  .container {
+    padding: 0 4rem;
+  }
+}
+
+
 
 
 // Header, feature and footer
