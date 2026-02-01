@@ -2,11 +2,11 @@
 title: Easter Egg
 layout: page
 
-feature_image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqFLh-vkEj943CyEZTf3UkDBJ3wxKHg-Kr5A&s"
+feature_image: "https://cdn.wikifarmer.com/images/detailed/2023/09/iStock-1068858270.jpg"
 aside: false
 
 ---
 
-Bravo tu as trouvé l'easter egg!
+Tu peux me contacter ci-dessous pour me dire que tu as trouvé l'easter egg
 
-
+{% include site-form.html name="contact" %}

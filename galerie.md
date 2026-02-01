@@ -233,4 +233,9 @@ C'est un [Sony NEX-5R (18-55mm)](https://en.wikipedia.org/wiki/Sony_NEX-5R "Sony
   data-gallery="gallery1">
     <img src="photos/thumbs/img038.jpg" alt=""> 	
 	
+  <a href="photos/full/img039.jpg"
+  class="glightbox"
+  data-gallery="gallery1">
+    <img src="photos/thumbs/img039.jpg" alt=""> 
+	
 </div>

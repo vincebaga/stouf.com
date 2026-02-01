@@ -130,7 +130,7 @@ navigation_footer:
 - title: Par Vincent Bagaïni sur la base Alembic de David Darnes
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://www.youtube.com/@VinceTrueMental
+  Youtube: https://www.youtube.com/@VinceTrueMental
   Soundcloud: https://soundcloud.com/vince_true_mental
 
 # Load custom fonts from fonts.google.com etc

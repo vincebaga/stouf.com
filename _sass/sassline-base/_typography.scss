@@ -366,8 +366,8 @@ a {
 
 // pour les onglets du navigation header
 //  navheader {
-//	@include fontsize(delta, all);
-//    @include baseline($fontsize: delta, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
+//	@include fontsize(epsilon, all);
+//    @include baseline($fontsize: epsilon, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
 //	font-family: "Cinzel Decorative", serif;
 //	font-weight: bold;
 //   font-feature-settings: 'kern', 'onum', 'liga';
