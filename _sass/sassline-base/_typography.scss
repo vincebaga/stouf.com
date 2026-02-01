@@ -100,7 +100,7 @@ a {
 
   // Lists.
   ul, ol {
-    @include baseline(zeta, $bodytype, 2, 2, all);
+    @include baseline(epsilon, $bodytype, 2, 2, all);
 
     li {
 	  font-feature-settings: 'kern', 'onum', 'liga';

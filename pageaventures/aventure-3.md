@@ -11,10 +11,10 @@ aside: true
 
 Vous trouverez ci-dessous mes participations dans les vidéos du grand alpiniste Quentin Faure
 
-* Multipitch d'escalade l'été :  
-La sport 400 est la voie sportive d'escalade la plus longue du Québec. 400m côté dans le 5.7, c'est une voie accessible à tous.tes et pourtant qui en jette !
+* Multipitch d'escalade l'été :
+<p>La sport 400 est la voie sportive d'escalade la plus longue du Québec. 400m côté dans le 5.7, c'est une voie accessible à tous.tes et pourtant qui en jette !</p>
 {% include video.html id="PAo44wM9VCw" title="Sport 400" %}
 
-* Traversée en ski l'hiver :  
-Il existe un circuit de randonnée l'été et de ski nordiques l'hiver dans les forêts de Charlevoix. C'est ce qu'on appelle la "Traversée de Charlevoix". Pour ma part j'ai fait la deuxième moitié de la traversée, en ski sur 4 jours (54km d'autonomie au total). Le but des journées se résumait à avancer dans les bois pour rejoindre le prochain refuge. Une belle expérience comme vous pourrez le constater.
+* Traversée en ski l'hiver :
+<p>Il existe un circuit de randonnée l'été et de ski nordiques l'hiver dans les forêts de Charlevoix. C'est ce qu'on appelle la "Traversée de Charlevoix". Pour ma part j'ai fait la deuxième moitié de la traversée, en ski sur 4 jours (54km d'autonomie au total). Le but des journées se résumait à avancer dans les bois pour rejoindre le prochain refuge. Une belle expérience comme vous pourrez le constater.</p>
 {% include video.html id="upF6XcxoQQE" title="Demie-traversée en ski" %}

@@ -3,7 +3,7 @@ title: À propos
 <!--feature_text: |
   # STOUF.COM
   Bienvenue sur le site du Stouf-->
-feature_image: "/assets/pics/roche1.jpg"
+feature_image: "/assets/pics/roche1.webp"
 aside: false
 ---
 

@@ -2,7 +2,7 @@
 title: Mes aventures
 layout: categories
 section: aventures
-feature_image: "/assets/pics/roche4.jpg"
+feature_image: "/assets/pics/roche4.webp"
 aside: true
 
 ---
