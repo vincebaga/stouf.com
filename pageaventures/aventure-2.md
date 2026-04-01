@@ -9,8 +9,8 @@ aside: true
 >Avril 2025: Cinq loubards tentent le 3ème plus haut sommet d’Amérique du Nord : le Pico de Orizaba.  
 Voici l’intitulé le plus simple que j’ai trouvé pour décrire le but de notre voyage. La « montagne des étoiles » se situe à la frontière des états du Veracruz et de Puebla au Mexique et culmine à 5675m. Voici notre équipe pour l’ascension du volcan : Quentin, Ambroise, Marceau, Maxime et moi-même. Les trois premiers membres sont également parapentistes et souhaitent décoller du sommet si les étoiles s’alignent…
 
-Vidéo à venir!
-{% include video.html id="Q3AGwno_vtM" title="Chat distordu" %}
+La vidéo du voyage réalisée par Marceau :
+{% include video.html id="iGCn444mH38" %}
 
 ## J-0 : Vendredi 25 Avril 2025  
 Jour du départ. On planifie ce voyage depuis des semaines et pourtant j'ai encore l'impression d'avoir oublié des choses. Depuis Montréal, nous partons à trois avec Quentin et Ambroise. Nous avons chacun un gros sac d'affaires 45L ainsi que deux duffel bags partagés rempli à ras bord de matos : crampons, bâtons de marche, guêtre, électrolytes et une tonne de vêtements de montagne (dont une partie gracieusement offerte par Ostrya et Cimalp, marques respectivement québecoise et française). Le trajet en avion est atroce, il y a beaucoup trop d'enfants à bord. Je fais quelques plans avec mon appareil photo de voyage acheté récemment pour l'occasion. Tard le soir, on retrouve Max et Marceau à Mexico City (alt. 2200m) dans notre premier refuge qui s’avère être un hôtel cinq étoiles (merci le boulot de Max). On se couche éreintés mais excités.  

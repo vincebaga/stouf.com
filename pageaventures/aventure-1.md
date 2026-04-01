@@ -6,7 +6,7 @@ order: 1
 aside: true
 ---
 
-> Avril 2024: Bon par où commencer ? Je traverse un période d’ennui. J'en ai marre de mon travail. L’hiver ne veut pas lever le camp, alors j'ai décidé de poser cinq jours pour me changer les idées. Le plan : partir seul en refuges dans les montagnes du New Hampshire (NH).
+> Avril 2024: Bon par où commencer ? Je traverse une période d’ennui. J'en ai marre de mon travail. L’hiver ne veut pas lever le camp, alors j'ai décidé de poser cinq jours pour me changer les idées. Le plan : partir seul en refuges dans les montagnes du New Hampshire (NH).
 
 Cette histoire est également disponible sur le podcast "Portraits" : &nbsp;&nbsp;{% include button.html text="Spotify" icon="spotify" link="https://open.spotify.com/episode/58XpgzlPgUlpfYHFwfuCXD?si=9e51269643084a76" color="#32DB54" %}
 
