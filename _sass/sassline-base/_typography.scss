@@ -375,9 +375,10 @@ a {
   
   .nav--header a,
 .nav--header .button--nav {
-  @include fontsize(alpha, all);
+//pour la police des boutons
+  @include fontsize(gamma, all);
   @include baseline(
-    $fontsize: alpha,
+    $fontsize: gamma,
     $font: $bodytype,
     $lineheight: 2,
     $below: 2,
