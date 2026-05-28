@@ -6,7 +6,7 @@ order: 2
 aside: true
 ---
 
-Une expédition en solo avec du kayak de mer, du kayak de rivière, de la randonnée et du vélo. Ça a l'air fou ? Et bien c'est ce que nous propose Olivier. En plus de s'orienter en solitaire sur son itinéraire, Olivier a réussi à filmer des plans tout du long, nous partageant ainsi des moments intimes d'exploration solitaire. Installez-vous confortablement, mettez votre gilet de sauvetage et appréciez cette vidéo passionante!
+Une expédition en solo avec du kayak de mer, du kayak de rivière, de la randonnée et du vélo. Ça a l'air fou ? Et bien c'est ce que nous propose Olivier. En plus de s'orienter en solitaire sur son itinéraire, Olivier a réussi à filmer des plans tout du long, nous partageant ainsi des moments intimes d'exploration isolée. Installez-vous confortablement, mettez votre gilet de sauvetage et appréciez cette vidéo passionante!
 {% include video.html id="-W8DSEuXAeM" title="Projet réunion" %}
 
 ##### 1. Lors de cette aventure quel a été le moment le plus éprouvant ?
