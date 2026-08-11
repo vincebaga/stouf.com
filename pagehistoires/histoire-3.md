@@ -1,20 +1,26 @@
 ---
-title: Moto
+title: La Mongolie à moto
 layout: page
 section: histoires
 order: 3
 aside: true
---draft
 ---
 
-À venir !
-{% include video.html id="E84cnnB2Kns" title="A la redécouverte" %}
+D'habitude je ne suis pas très passionné par les véhicules à moteur. Mais force est de constater que la vidéo que je vous recommande aujourd'hui est une véritable aventure avec son lot d'emmerdes et de contemplations profondes. Les magnifiques images de Robin racontent une traversée en moto de la Mongolie mais aussi une belle histoire entre potes. Loin du tourisme traditionnel, ces gars là auront des choses à raconter au coin de la cheminée plus tard.
+{% include video.html id="AZufw_dgHe0" title="Biking Mongolia" %}
 
 ##### 1. Lors de cette aventure quel a été le moment le plus éprouvant ?
-> Réponse
+> Un des moments les plus durs s’est produit au début de l’aventure. Dès le deuxième jour, on a vu le revers de la médaille des grandes étendues vierges. Certes la Mongolie est un espace immense qui donne un sentiment de liberté incroyable, mais il peut vite devenir un piège si on s’y perd, et notre excès de confiance et d’excitation de démarrage nous l’a fait comprendre. En se précipitant et en prenant un chemin qu’on pensait être le bon, on s’est retrouvé à faire des dizaines de kilomètres en plus, au milieu de nulle part, dans un terrain super accidenté.
+
+> Alors comparé aux galères qu’on a eu ensuite celle ci n’était pas si grave, mais c’était la premiere, et ça change tout. On n'était pas encore habitué, on maîtrisait mal nos motos, et on manquait d’expérience. On a passé la journée à se sortir des bancs de sables dans lesquels on s’était fourré, à se réorienter sans aucun point de repère à l’horizon, et à essayer garder notre sang froid au sein du groupe sans que les tempéraments ne s’échauffent. On a fini par regagner le tracé d’origine à la fin de la journée, mais nous étions déjà épuisés alors que ce n’était que le deuxième jour. Ça a été très dur physiquement, mentalement, et ça nous a directement mit dans le dur alors qu’on s’y attendait pas.
+Néanmoins, cette première mauvaise expérience nous a fait comprendre à quoi pourrait ressembler le reste du périple si on n’était pas suffisamment précautionneux.
 
 ##### 2. Le moment le plus inoubliable ?
-> Réponse
+> Malgré tous les paysages et moments entre potes exceptionnels qu’on a pu vivre, un moment que je garderais si je ne devais en choisir qu’un serait sans doute notre rencontre avec Kye. Kye c’est un mongol qu’on a rencontré dans un village et qui nous a invité à passer la nuit chez lui. Après s’être éloigné de la ville, on arrive sur deux yourtes au milieu d’une vaste pleine. On rencontre alors sa mère, qui était en train de traire un Yak. C’est un premier pas pour nous dans la vie quotidienne des gens qui habitent ce pays. Son père et sa sœur nous rejoignent ensuite, et nous demandent alors de ramasser des bouses séchées pour alimenter le feu du soir. Ça m’a alors conforté dans l’idée qu’on n'était pas là en tant que simples observateurs mais qu’on allait participer à un moment de leur vie quotidienne. On s’attelle ensuite à la préparation de notre repas du soir: des khushur, une sorte de beignet frit à la viande. Un moment convivial et plein de bienveillance vis à vis de nos talents de cuisiniers plus que médiocres. Dans cette yourte on découvre un mode de vie très modeste, avec seulement une banquette pour dormir, des morceaux de viande qui sèchent, des seaux de lait de yak destinés à être transformés en fromage et un foyer au milieu de la pièce pour se réchauffer et cuisiner. On mange tous ensemble en échangeant quelques mots d’anglais, puis vers 22h on sort pour rejoindre le troupeau. Une mission est alors lancée à la lampe frontale pour retrouver et séparer les bébés des mamans yak, pour ne pas qu’ils boivent tout le lait. On plante nos tentes à côté de leurs yourtes, et les rejoignons au réveil. Nous passons encore quelque moments de vie avec eux, et on joue même au basket sur un panier rouillé installé au milieu de la plaine. Quelques photos avec la famille avant de repartir, en se demandant si ce qu’on vient de vivre s’est vraiment produit...
+
+> C’est tellement rare de pouvoir s’immiscer réellement dans la vie des locaux lorsqu’on voyage, que ça fait d’un moment routinier pour eux une expérience extraordinaire pour nous. On a pu découvrir le quotidien et la culture d’un peuple grâce a un hasard total, un pas fait en avant par Kye, un local qui rêve de devenir guide touristique. Ça nous a rappelé que l’on faisait ce voyage en tant que voyageurs mais que c’était avant tout le lieu de vie de fermiers nomades. Aussi il n’est pas rare qu’avec le tourisme de masse ce genre de moment nous soient vendus, et ça nous a rappelé que si on a les bonnes intentions on peut rencontrer des gens plein de bienveillance prêts à partager leur culture sans rien attendre en retour.
 
 ##### 3. Un conseil pour les gens qui souhaitent partir à l’aventure ?
-> Réponse
+> Si je devais donner un conseil aux gens qui voudraient partir à l’aventure, c’est de toujours relativiser face à l’imprévu. Si on se trouve dans une situation de merde, éprouvante, ou désagréable, j’essaie toujours de me dire que c’est ce qui rend l’expérience inoubliable.
+Le plus important est de savoir lâcher prise face aux choses qui déraillent, et essayer de calmement remettre les choses en ordre. Alors oui des fois on finit dans des situations catastrophiques, on a envie de tout plaquer et on se demande ce qu’on fout là, mais au final s'il n’y a pas mort d’homme alors ça n’est pas si grave.
+Donc n’hésitez pas à sortir de votre zone de confort, ça mène toujours à vivre des choses enrichissantes.

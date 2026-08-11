@@ -130,7 +130,8 @@ navigation_header:
   url: /histoires_de_refuge
 
 navigation_footer:
-- title: Par Vincent Bagaïni sur la base Alembic de David Darnes
+- title : Contactez moi
+  url: /contact/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Youtube: https://www.youtube.com/@VinceTrueMental
